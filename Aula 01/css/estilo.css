@@ -1,0 +1,55 @@
+.sub1{
+    color: #F78812;
+    background-color :rgb(28, 122, 28);
+}
+.sub2{
+color: cyan;
+font-size: xx-large;
+}
+.titulo{
+    background-color: darkgoldenrod;
+    text-align: center;
+    margin: 50px;
+    
+}
+.header{
+    overflow: hidden;
+    background-color: #333;
+    padding: 20px 10px;
+}
+.home {
+    float: left;
+    color :red;
+    text-align: center;
+    padding: 12px;
+    font-size: 20px;
+    text-decoration: gold;
+    border-radius: 4px;
+    line-height: 25px;
+}
+.header a.logo{
+    color: grey;
+
+font-size: 25px;
+}
+.header a.hover{
+    background-color: lavender;
+    color: mediumpurple;
+}
+.header a :active{
+    background-color: mediumvioletred;
+    color: palevioletred;
+}
+.header-right{
+    float: right;
+}
+@media screen and (max-widht: 500px)
+.header a{
+    float:nome
+    display:blank
+    text-alige: :left
+
+}
+.header-right{
+    float: none;
+}
